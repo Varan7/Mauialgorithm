@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/varan777/model/file.model"
+all_model_checkpoint_paths: "/home/varan777/model/file.model"
